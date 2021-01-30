@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="javatuples-1.2.jar"/>
+	<classpathentry kind="lib" path="krpc-java-0.4.3.jar"/>
+	<classpathentry kind="lib" path="protobuf-java-3.4.0.jar"/>
+	<classpathentry kind="output" path="out/production/my-krpc"/>
+</classpath>
